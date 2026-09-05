@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm ArTax 👋</h1>
 
-<!--
-**iam-artax/iam-artax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Web Developer building with TypeScript and Next.js.</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I build modern web applications, focusing on clean interfaces,<br>
+  practical solutions, and thoughtful development.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**  
+TypeScript · JavaScript
+
+**Frontend**  
+React · Next.js · CSS
+
+**Backend & Data**  
+Node.js · REST APIs · SurrealDB
+
+**Tools**  
+Git · GitHub · pnpm
+
+## Contact
+
+Feel free to reach out:
+
+📧 Email — `thisisahu3fi@gmail.com`  
+💬 Telegram — [@iam_artax](https://t.me/iam_artax)
+
+---
+
+<p align="center">
+  <strong>Build. Learn. Improve.</strong> 🚀
+</p>
