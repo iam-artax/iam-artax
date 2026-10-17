@@ -6,6 +6,8 @@
 
 <p><strong>Web Developer · TypeScript & Next.js</strong></p>
 
+<br />
+
 <p>
   <a href="mailto:thisisahu3fi@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="18" height="18" alt="Email" /></a>&nbsp;
   <a href="mailto:thisisahu3fi@gmail.com">Email</a>
@@ -17,6 +19,8 @@
   <a href="https://bsky.app/profile/iam-artax.bsky.social">Bluesky</a>
 </p>
 
+<br />
+
 </div>
 
 ---
@@ -24,10 +28,10 @@
 <h3 align="center">TECH STACK</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" />&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />
 </p>
 
