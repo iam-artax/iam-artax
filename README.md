@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=180&section=header&text=ArTax&fontSize=72&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Web%20Developer%20%7C%20TypeScript%20%26%20Next.js&descSize=18&descColor=cccccc&descAlign=50&descAlignY=75" width="100%" alt="ArTax — Web Developer · TypeScript & Next.js" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F26C01&height=3&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:f26c01&height=220&section=header&text=ArTax&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%C2%B7%20TypeScript%20%26%20Next.js&descSize=18&descAlignY=59&animation=fadeIn" width="100%" alt="ArTax — Web Developer · TypeScript & Next.js" />
 
 <p>
   <a href="mailto:thisisahu3fi@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="18" height="18" alt="Email" /></a>&nbsp;
